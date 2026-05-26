@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Hero background showing community poster for Bijoy Utsav",
+      "imageUrl": "https://picsum.photos/seed/dsl-poster/1920/1080",
+      "imageHint": "community poster"
+    },
+    {
+      "id": "event-victory",
+      "description": "Victory Celebration event",
+      "imageUrl": "https://picsum.photos/seed/victory/1200/800",
+      "imageHint": "celebration stage"
+    },
+    {
+      "id": "work-playground",
+      "description": "Cleaned community playground",
+      "imageUrl": "https://picsum.photos/seed/playground/800/600",
+      "imageHint": "playground park"
+    },
+    {
+      "id": "work-drainage",
+      "description": "Drainage repair work in progress",
+      "imageUrl": "https://picsum.photos/seed/drainage/800/600",
+      "imageHint": "construction"
+    },
+    {
+      "id": "work-development",
+      "description": "Development work at Ward 41",
+      "imageUrl": "https://picsum.photos/seed/development/800/600",
+      "imageHint": "urban development"
+    },
+    {
+      "id": "work-garbage",
+      "description": "Sanitation drive at bus stand",
+      "imageUrl": "https://picsum.photos/seed/garbage/800/600",
+      "imageHint": "cleaning"
+    },
+    {
+      "id": "work-health",
+      "description": "Health checkup camp",
+      "imageUrl": "https://picsum.photos/seed/health/800/600",
+      "imageHint": "medical"
+    },
+    {
+      "id": "news-default",
+      "description": "Default news thumbnail",
+      "imageUrl": "https://picsum.photos/seed/news/800/600",
+      "imageHint": "newspaper"
+    }
+  ]
+}
